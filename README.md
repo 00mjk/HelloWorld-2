@@ -10,6 +10,7 @@
 #### Autoit
 #### BASIC
 #### Batch
+#### BitZ
 #### Blender
 #### Brainfuck
 #### C
